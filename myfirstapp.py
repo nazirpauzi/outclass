@@ -27,6 +27,7 @@ elif option=='T n C':
           'Students': ['John', 'Lofa', 'Siti', 'Amy'],
           'Attendance Status': ['yes', 'yes', 'yes', 'no']
         }))
+        
 elif option=='Long Process':
     'Starting a long computation...'
 
